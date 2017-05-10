@@ -1,1 +1,24 @@
-{}
+{
+  "cloudantNoSQLDB": [
+    {
+      "credentials": {
+        "username": "f9945bfa-aaa2-43e3-b118-44d2ddc1e2a3-bluemix",
+        "password": "7d86ab50e8af8f1e24df0ac5a30c8bebbf2ba662d255b0377a331146a6cbbbee",
+        "host": "f9945bfa-aaa2-43e3-b118-44d2ddc1e2a3-bluemix.cloudant.com",
+        "port": 443,
+        "url": "https://f9945bfa-aaa2-43e3-b118-44d2ddc1e2a3-bluemix:7d86ab50e8af8f1e24df0ac5a30c8bebbf2ba662d255b0377a331146a6cbbbee@f9945bfa-aaa2-43e3-b118-44d2ddc1e2a3-bluemix.cloudant.com"
+      },
+      "syslog_drain_url": null,
+      "label": "cloudantNoSQLDB",
+      "provider": null,
+      "plan": "Lite",
+      "name": "catsbuiltdogsapp-cloudantNoSQLDB",
+      "tags": [
+        "data_management",
+        "ibm_created",
+        "lite",
+        "ibm_dedicated_public"
+      ]
+    }
+  ]
+}
